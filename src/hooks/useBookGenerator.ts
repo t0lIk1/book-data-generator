@@ -1,4 +1,3 @@
-import { faker } from '@faker-js/faker';
 import { faker as fakerDE } from '@faker-js/faker/locale/de';
 import { faker as fakerEN } from '@faker-js/faker/locale/en';
 import { faker as fakerFR } from '@faker-js/faker/locale/fr';
